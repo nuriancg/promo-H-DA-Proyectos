@@ -25,5 +25,5 @@ Me alegra que estés aquí. Este repositorio es el reflejo del esfuerzo, creativ
 ---
 
 <div align="center">
-  <img src="https://pbs.twimg.com/profile_images/1367196010897795080/mGH9T1jH_400x400.jpg" alt="Adalab Logo" width="200"/>
+  <img src="https://adalab.es/wp-content/uploads/2022/03/logo-adalab.png" width="618" height="239" alt="Adalab" id="logo" data-height-percentage="54" data-actual-width="618" data-actual-height="239">
 </div>
